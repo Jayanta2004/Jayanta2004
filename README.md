@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Jayanta 👋
 
-<!--
-**Jayanta2004/Jayanta2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer and lifelong learner who enjoys building useful things and contributing to open source.
 
-Here are some ideas to get you started:
+## About me
+- Passionate about writing clean, readable code and learning new technologies.
+- Interested in web development, automation, and problem-solving.
+- Always exploring new projects and collaborating with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: Python • JavaScript • 
+- Web: HTML • CSS • React • 
+- Tools: Git • Docker • 
+
+## Currently
+Working on learning more about backend development and building small open-source projects.
+
+## Fun facts
+- I love solving coding challenges.
+- I enjoy reading tech blogs and experimenting with side projects.
+
+## Contact
+- GitHub: https://github.com/Jayanta2004
+- Email: jayantaghosh2004.com
+- LinkedIn: (https://www.linkedin.com/in/jayantaghosh2004/)
