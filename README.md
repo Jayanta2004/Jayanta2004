@@ -21,5 +21,5 @@ Working on learning more about backend development and building small open-sourc
 
 ## Contact
 - [GitHub](https://github.com/Jayanta2004)
-- Email: jayantaghosh2004@gmail.com
+- [Email](mailto:jayantaghosh2004@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jayantaghosh2004)
