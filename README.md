@@ -20,6 +20,6 @@ Working on learning more about backend development and building small open-sourc
 - I enjoy reading tech blogs and experimenting with side projects.
 
 ## Contact
-- GitHub: https://github.com/Jayanta2004
-- Email: jayantaghosh2004.com
-- LinkedIn: (https://www.linkedin.com/in/jayantaghosh2004/)
+- [GitHub](https://github.com/Jayanta2004)
+- Email: jayantaghosh2004@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jayantaghosh2004)
